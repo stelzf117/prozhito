@@ -1,6 +1,6 @@
 # Прожито
 
-Разработка нового сайта для проекта <a hreft="https://prozhito.org/">projito</a> <br>
+Разработка нового сайта для проекта <a href="https://prozhito.org/">projito</a> <br>
 
 Команда 14_7
 - Шувахин Анатолий @shvkn (Team Lead)
