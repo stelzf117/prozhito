@@ -12,4 +12,4 @@
 
 ## Ссылки
 <a href="https://stelzf117.github.io/prozhitoOrg/">Github pages</a>
-+ [🔗 Макет в Figma](https://www.figma.com/file/mN5Q5ksQRNM0ywdFGK1AyU/%D0%9F%D1%80%D0%BE%D0%B6%D0%B8%D1%82%D0%BE_%D0%B2%D0%B5%D0%B1%2B_update-19%2F07)
+[Макет в Figma](https://www.figma.com/file/mN5Q5ksQRNM0ywdFGK1AyU/%D0%9F%D1%80%D0%BE%D0%B6%D0%B8%D1%82%D0%BE_%D0%B2%D0%B5%D0%B1%2B_update-19%2F07)
